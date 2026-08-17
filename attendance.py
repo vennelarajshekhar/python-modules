@@ -1,0 +1,2 @@
+def attendance():
+    print("Present")
